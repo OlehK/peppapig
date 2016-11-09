@@ -4,7 +4,7 @@
  */
 get_header(); ?>
 <?php
-	  
+	/* I realy sorry for this code! If you are read this code, I hope you not die! */  
 	/*$link = new PDO("mysql:host=localhost;dbname=Pepa","root","");*/
 
     /*$set = $link->prepare("SET NAMES 'utf8");
